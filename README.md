@@ -1,4 +1,6 @@
-# an(na)other context
+# ACE OS
+
+**An(na)other Context Engine OS** · part of *an(na)other context*
 
 An operating system for bottom-up learning, co-designed step by step.
 
