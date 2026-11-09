@@ -1,4 +1,4 @@
-# Contributing to an(na)other context
+# Contributing to ACE OS
 
 Thank you for wanting to help. These rules apply to everything added to this repository.
 
@@ -17,9 +17,10 @@ Thank you for wanting to help. These rules apply to everything added to this rep
 - Do not contribute anything meant to harm people.
 - Do not use or extend this project to harm people.
 
-## 3 · No money
+## 3 · The base stays free and open
 
-- Contributions stay noncommercial, like the project itself.
+- Commercial use is welcome, within the licenses.
+- The base itself stays freely accessible to anyone who needs it or wants to contribute: code under AGPL-3.0, everything else under CC BY-SA 4.0.
 
 ## Good to know
 

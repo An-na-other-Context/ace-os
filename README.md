@@ -20,12 +20,12 @@ input  →  context application  →  desired output
 
 ## License
 
-This project is **source-available**, not "open source": the [Open Source Definition](https://opensource.org/osd) (criterion 6) does not allow banning commercial use.
+ACE OS is **open source** and stays that way: anyone who receives it, also by buying it, gets the source and the same right to share it freely.
 
 | What | License | In short |
 |---|---|---|
-| Code (software, scripts, config) | [PolyForm Noncommercial 1.0.0](LICENSE.md) | Use, change and share for any noncommercial purpose. |
-| Everything else (text, images, audio, drawings, other media) | [CC BY-NC-SA 4.0](LICENSE-CONTENT.txt) | Share and adapt, give credit, no money, same license. |
+| Code (software, scripts, config) | [AGPL-3.0](LICENSE.md) | Use, change, share and sell, but share your source under the same license — also when you run it as a website or app for others. |
+| Everything else (text, images, audio, drawings, other media) | [CC BY-SA 4.0](LICENSE-CONTENT.txt) | Share and adapt, also commercially; give credit and use the same license. |
 | Project rules | [CONTRIBUTING.md](CONTRIBUTING.md) | No AI-made content (AI may help with code and project docs), no malicious use. |
 
-Required Notice: Copyright (c) 2026 annaothercrow (https://github.com/annaothercrow)
+Copyright (c) 2026 annaothercrow (https://github.com/annaothercrow)
